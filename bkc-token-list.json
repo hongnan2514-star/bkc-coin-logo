@@ -1,0 +1,19 @@
+{
+  "name": "BKC Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-01-19T15:35:00.000Z",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x449749b7daDF9595Cfd3ce6F91A03C62BFC2d4cC",
+      "name": "Berserk Coin",
+      "symbol": "BKC",
+      "decimals": 2,
+      "logoURI": "https://raw.githubusercontent.com/hongnan2514-star/bkc-coin-logo/main/BERSERK%20Coin.png"
+    }
+  ]
+}
